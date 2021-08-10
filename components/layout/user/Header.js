@@ -52,7 +52,7 @@ export default function  header (){
          <Navbar.Collapse id='responsive-navbar-nav'>  
          <Dropdown >
    <Dropdown.Toggle variant="success" id="dropdown-basic">
-   <img className="border rounded-circle img-profile" src="../../assets/img/smk.png" style={{width: 30, height: 30}} />
+   <img className="border rounded-circle img-profile" src="/stikom.png" style={{width: 30, height: 30}} />
       
    </Dropdown.Toggle>
  
@@ -70,7 +70,7 @@ export default function  header (){
      </Nav>
      </Navbar.Collapse>
      <form style={{marginTop:'10px'}}>
-        <b><h5 style={{color:"white"}}> PERPUSTAKAAN SMK NURUT TAQWA   </h5></b>
+        <b><h5 style={{color:"white"}}> SISTEM PERPUSTAKAAN   </h5></b>
         </form>
      {/* <form>
      <InputGroup size="sm" className="mb-3">
