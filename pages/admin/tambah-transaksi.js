@@ -349,7 +349,7 @@ export default function TambahTransaksi() {
                           type="submit"
                           style={{ padding: '11px 8px', fontSize: 17, marginTop: 11 }}
                         >Tambah Transaksi</button>
-                        <button className="btn btn-primary btn-sm" type="submit" style={{ padding: '11px 8px', fontSize: 17, marginTop: 11, marginLeft: 39 }}>Scan Barcode</button></div>
+                      </div>
                     </form>
                   </div>
                 </div>
