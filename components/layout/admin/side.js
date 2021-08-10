@@ -10,7 +10,6 @@ export default function Side() {
 
       {/* link beranda */}
       <Link href='/'><a className="navbar-brand d-flex justify-content-center align-items-center sidebar-brand m-0" href="#">
-     <div className="sidebar-brand-text mx-3 d-flex justify-content-between"><img src="../../assets/img/smk.png" style={{width: 65}} /></div>
      <div className="sidebar-brand-text mx-3 d-flex justify-content-between"><img src="/stikom.png" style={{width: 65}} /></div>
       </a></Link>
       

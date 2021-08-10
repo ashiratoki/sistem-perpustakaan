@@ -114,7 +114,7 @@ export default function header() {
     <nav className="navbar navbar-light navbar-expand bg-white shadow mb-4 topbar static-top" >
       <div className="container-fluid"><button className="btn btn-link d-md-none rounded-circle me-3" id="sidebarToggleTop" type="button"><i className="fas fa-bars" /></button>
         <form className="d-none d-sm-inline-block me-auto ms-md-3 my-2 my-md-0 mw-100 ">
-          <b><h2 style={{ color: "blue" }} > PERPUSTAKAAN  SMK NURUT TAQWA</h2></b>
+          <b><h2 style={{ color: "blue" }} > Sistem Perpustakaan </h2></b>
         </form>
         <ul className="navbar-nav flex-nowrap ms-auto">
           <li className="nav-item dropdown d-sm-none no-arrow"><a className="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#"><i className="fas fa-search" /></a>
