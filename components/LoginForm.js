@@ -21,9 +21,9 @@ function LoginForm({Login , error }){
     }
     return(
         <form onSubmit={submitHandler}>
-        <div className="illustration" style={{"height": "210.328px"}}><img src="/smk.png" alt="Picture of the author" style={{width:'170px',height:'170px', margin:'auto'}} className="d-flex m-auto"/>
+        <div className="illustration" style={{"height": "210.328px"}}><img src="/stikom.png" alt="Picture of the author" style={{width:'170px',height:'170px', margin:'auto'}} className="d-flex m-auto"/>
             <h1 style={{marginTop:"11px", fontSize: "54px", color:"#2E8B57"}}>LOGIN</h1>
-            <p style={{fontSize: "16px", color: "rgb(25,25,25)", textAlign:"center",fontWeight: 200}}>SMK NURUT TAQWA SONGGON</p>
+            <p style={{fontSize: "16px", color: "rgb(25,25,25)", textAlign:"center",fontWeight: 200}}>Sistem Perpustakaan Online</p>
         </div><br/><br/><br/>
         {(error!='')?( <p style={{fontSize: "16px",color: "#2E8B57",textAlign: "center",fontWeight: "bold",marginTop: "18px"}}  >{error}</p>):''}
         <div className="mb-3">
