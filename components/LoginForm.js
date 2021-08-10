@@ -55,7 +55,6 @@ function LoginForm({Login , error }){
           >Login</button>
           </a></div>
         <p style={{fontSize: "16px",color: "#2E8B57",textAlign: "center",fontWeight: "bold",marginTop: "18px"}}>Jika tidak mengetahui username dan password, silahkan menghubungi Admin</p>
-        <span style={{fontSize: "16px",color: "#2E8B57",textAlign: "center",fontWeight: "bold",marginTop: "18px"}}>Bu Reni (+62 812-3279-0730)</span>
      
     </form>
     )
