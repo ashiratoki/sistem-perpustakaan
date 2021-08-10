@@ -13,7 +13,7 @@ export default function Side() {
      <div className="sidebar-brand-text mx-3 d-flex justify-content-between"><img src="/stikom.png" style={{width: 65}} /></div>
       </a></Link>
       
-      <span style={{marginRight: 0, borderColor: 'rgb(255,255,255)', color: 'rgb(255,255,255)', marginTop: 6, fontSize: 18, fontFamily: 'Alata, sans-serif'}}>SMK Nurut Taqwa</span>
+      <span style={{marginRight: 0, borderColor: 'rgb(255,255,255)', color: 'rgb(255,255,255)', marginTop: 6, fontSize: 18, fontFamily: 'Alata, sans-serif'}}>Perpustakaan</span>
       <ul className="navbar-nav text-light" id="accordionSidebar" style={{marginTop: 19}}>
 
         <li className="nav-item">
