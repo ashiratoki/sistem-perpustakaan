@@ -62,7 +62,7 @@ export default function updateDenda() {
                     <tbody>
                         <tr>
                             <td width={25} align="center"><img
-                                src="/smk.png" style={{ width: '100px' }} /></td>
+                                src="/stikom.png" style={{ width: '100px' }} /></td>
                             <td width={50} align="center"><h2>Kartu Anggota Perpustakaan</h2><br /><h2>Sistem Perpustakaan</h2><br/>
                             </td>
                             <td width={5} align="center" >
