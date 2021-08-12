@@ -263,8 +263,8 @@ export default function updateDenda() {
                                   required
                                 >
                                   <option></option>
-                                  <option value="Belum Mengumpulkan Rangkuman">Belum Mengumpulkan Rangkuman</option>
-                                  <option value="Sudah Mengumpulkan Rangkuman">Sudah Mengumpulkan Rangkuman</option>
+                                  <option value="Belum Bayar">Belum Bayar</option>
+                                  <option value="Belum Bayar">Sudah Bayar</option>
                                 </select></div>
                             </div>
                           </div>

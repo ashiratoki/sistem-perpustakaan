@@ -8,7 +8,7 @@ const handler = async (_, res) => {
       DATE_FORMAT(tb_denda.tgl_kembali, '%Y-%m-%d') AS tgl_kembali_fix
       FROM tb_denda
       INNER JOIN tb_siswa ON tb_denda.nis=tb_siswa.nis
-      WHERE tb_denda.status = 'Belum Mengumpulkan Rangkuman' 
+      WHERE tb_denda.status = 'Belum Bayar' 
       ORDER BY tb_denda.id ASC;
     `)
   

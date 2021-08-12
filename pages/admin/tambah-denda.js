@@ -262,8 +262,8 @@ export default function TambahDenda(){
                           required
                           >
                             <option></option>
-                            <option value="Belum Mengumpulkan Rangkuman">Belum Mengumpulkan Rangkuman</option>
-                            <option value="Sudah Mengumpulkan Rangkuman">Sudah Mengumpulkan Rangkuman</option>
+                            <option value="Belum Bayar">Belum Bayar</option>
+                            <option value="Sudah Bayar">Sudah Bayar</option>
                           </select></div>
                         </div>
                       </div>
